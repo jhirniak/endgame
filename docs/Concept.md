@@ -1,9 +1,6 @@
-# Names
-End Game
-Die Today
+# Name ideas
+* End Game
+* Die Today
 
 # Stack
 Elm + Haskell
-
-# Lubie placki
-# :3
