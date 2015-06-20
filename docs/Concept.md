@@ -6,3 +6,4 @@ Die Today
 Elm + Haskell
 
 # Lubie placki
+# :3
